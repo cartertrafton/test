@@ -1,7 +1,7 @@
 
-# single hash
-## double hash
-### triple hash
+# \# large
+## \## med
+### \### small
   test repo for learning git
   
 \** **bold** 
